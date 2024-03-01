@@ -1,4 +1,4 @@
-# Hi there
+# Hi 👋
 
 💼 I'm Sadikshya Satyal, an IT professional with a recent degree in Engineering from Centria University of Applied Sciences.
 
