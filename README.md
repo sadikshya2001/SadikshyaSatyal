@@ -11,7 +11,7 @@
 
 🔍 Strong grasp of SEO and database management using SQL.
 
-🎯 Currently focusing on TypeScript to enhance software development skills.
+🎯 Currently focusing on GoLang to enhance web development skills.
 
 💡 Passionate about leveraging technology to solve complex problems.
 
