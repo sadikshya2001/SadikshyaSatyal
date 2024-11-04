@@ -6,7 +6,7 @@
 
 ## 🚀 Experience
 
-- **React and Next.js intern at Diilimurku**
+- **React.js and Next.js intern at Diilimurku**
 - **Project Analyst at Centria UAS**
 - **Content Writer at Online Notes Nepal**
 
